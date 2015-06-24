@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88c61c7e-e8b3-49aa-ba2e-365e62bcf395" name="Default" comment="" />
+    <list default="true" id="88c61c7e-e8b3-49aa-ba2e-365e62bcf395" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts/6-17-15_if_something_bothers_you.html" afterPath="$PROJECT_DIR$/posts/6-17-15_if_something_bothers_you.html" />
+    </list>
     <ignored path="gitpage.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -34,8 +36,8 @@
       <file leaf-file-name="6-17-15_if_something_bothers_you.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/posts/6-17-15_if_something_bothers_you.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6137339">
-              <caret line="1069" column="56" selection-start-line="1069" selection-start-column="56" selection-end-line="1069" selection-end-column="56" />
+            <state vertical-scroll-proportion="0.48497853">
+              <caret line="989" column="4" selection-start-line="989" selection-start-column="4" selection-end-line="989" selection-end-column="4" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -384,8 +386,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/posts/6-17-15_if_something_bothers_you.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6137339">
-          <caret line="1069" column="56" selection-start-line="1069" selection-start-column="56" selection-end-line="1069" selection-end-column="56" />
+        <state vertical-scroll-proportion="0.48497853">
+          <caret line="989" column="4" selection-start-line="989" selection-start-column="4" selection-end-line="989" selection-end-column="4" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
