@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88c61c7e-e8b3-49aa-ba2e-365e62bcf395" name="Default" comment="" />
+    <list default="true" id="88c61c7e-e8b3-49aa-ba2e-365e62bcf395" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts/6-17-15_if_something_bothers_you.html" afterPath="$PROJECT_DIR$/posts/6-17-15_if_something_bothers_you.html" />
+    </list>
     <ignored path="gitpage.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -34,8 +36,8 @@
       <file leaf-file-name="6-17-15_if_something_bothers_you.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/posts/6-17-15_if_something_bothers_you.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33128363">
-              <caret line="806" column="32" selection-start-line="806" selection-start-column="32" selection-end-line="806" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.73481935">
+              <caret line="995" column="10" selection-start-line="995" selection-start-column="10" selection-end-line="995" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -385,8 +387,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/posts/6-17-15_if_something_bothers_you.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33128363">
-          <caret line="806" column="32" selection-start-line="806" selection-start-column="32" selection-end-line="806" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.73481935">
+          <caret line="995" column="10" selection-start-line="995" selection-start-column="10" selection-end-line="995" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
