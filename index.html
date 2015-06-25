@@ -1,5 +1,6 @@
 
 <!DOCTYPE html>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=75ff60d174af47d7ea271d82d4fe1151"></script>
 <!DOCTYPE html>
 <!--[if IE]>
@@ -911,8 +912,66 @@
       }
 
 
+
+      /*------------------------------------------------ Collapse Navbar ---------------------------------------- */
+
+
+      body {
+          padding-top: 40px; // same as header height
+      }
+      header {
+          position: fixed;
+          transition: top 0.2s ease-in-out;
+      }
+      .nav-up {
+          top: -250px;
+      }
+
   </style>
 
+
+
+<script>
+
+    // Hide Header on on scroll down
+    var didScroll;
+    var lastScrollTop = 0;
+    var delta = 5;
+    var navbarHeight = $('header').outerHeight();
+
+    $(window).scroll(function(event){
+        didScroll = true;
+    });
+
+    setInterval(function() {
+        if (didScroll) {
+            hasScrolled();
+            didScroll = false;
+        }
+    }, 250);
+
+    function hasScrolled() {
+        var st = $(this).scrollTop();
+
+        // Make sure they scroll more than delta
+        if(Math.abs(lastScrollTop - st) <= delta)
+            return;
+
+        // If they scrolled down and are past the navbar, add class .nav-up.
+        // This is necessary so you never see what is "behind" the navbar.
+        if (st > lastScrollTop && st > navbarHeight){
+            // Scroll Down
+            $('header').removeClass('nav-down').addClass('nav-up');
+        } else {
+            // Scroll Up
+            if(st + $(window).height() < $(document).height()) {
+                $('header').removeClass('nav-up').addClass('nav-down');
+            }
+        }
+
+        lastScrollTop = st;
+    }
+</script>
 
 
 <head>
@@ -937,11 +996,6 @@
       </div>
 
     </div>
-
-
-
-
-
 
 
 
