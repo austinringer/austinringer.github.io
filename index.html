@@ -916,65 +916,8 @@
           margin-left: 40px;
       }
 
-      /*------------------------------------------------ Collapse Navbar ---------------------------------------- */
-
-
-      body {
-          padding-top: 40px; // same as header height
-      }
-      header {
-          position: fixed;
-          transition: top 0.2s ease-in-out;
-      }
-      .nav-up {
-          top: -250px;
-      }
 
   </style>
-
-
-
-<script>
-
-    // Hide Header on on scroll down
-    var didScroll;
-    var lastScrollTop = 0;
-    var delta = 5;
-    var navbarHeight = $('header').outerHeight();
-
-    $(window).scroll(function(event){
-        didScroll = true;
-    });
-
-    setInterval(function() {
-        if (didScroll) {
-            hasScrolled();
-            didScroll = false;
-        }
-    }, 250);
-
-    function hasScrolled() {
-        var st = $(this).scrollTop();
-
-        // Make sure they scroll more than delta
-        if(Math.abs(lastScrollTop - st) <= delta)
-            return;
-
-        // If they scrolled down and are past the navbar, add class .nav-up.
-        // This is necessary so you never see what is "behind" the navbar.
-        if (st > lastScrollTop && st > navbarHeight){
-            // Scroll Down
-            $('header').removeClass('nav-down').addClass('nav-up');
-        } else {
-            // Scroll Up
-            if(st + $(window).height() < $(document).height()) {
-                $('header').removeClass('nav-up').addClass('nav-down');
-            }
-        }
-
-        lastScrollTop = st;
-    }
-</script>
 
 
 <head>
@@ -985,17 +928,9 @@
     <div class="content">
 
 
-      <h1><a href="http://austinringer.com"><img src="http://i1066.photobucket.com/albums/u418/austinringer/2e43a973-ddbf-4708-83a9-f992c8e90a61_zpsqbapzd7e.jpg" class="profilepic">Austin Ringer</a></h1>
 
         <div class="links nomo">
-
-        <!--&lt;!&ndash;<a href="http://twitter.com/gmph" class="button">-->
-        <!--<span class="text">Twitter</span>-->
-        <!--</a>&ndash;&gt;-->
-
-        <a href="mailto:austinringer@gmail.com" class="button">
-          <span class="text">Email&nbsp;Me</span>
-        </a>
+            
 
       </div>
 
@@ -1017,9 +952,6 @@
 
 <body>
 
-<div class="content">
-<img src="http://i1066.photobucket.com/albums/u418/austinringer/new-ish_zpsalklrhmt.png" class="badge">
-</div>
 
 <article>
 
@@ -1055,7 +987,9 @@
 
 <footer>
 
-  <p>Thanks for reading  :-) <br>&copy; Austin Ringer 2015</p>
+    <p><a href="http://twitter.com/austinringer"><img class="profpic" src="http://i1066.photobucket.com/albums/u418/austinringer/2e43a973-ddbf-4708-83a9-f992c8e90a61_zpsqbapzd7e.jpg" width="90px"></a><a href="http://twitter.com/austinringer"><strong>Austin Ringer</strong></a><br>I'm a designer and developer in San Francisco, though, I'm really just getting started. I'm on <a href="http://twitter.com/austinringer">Twitter</a> and here's my <a href="mailto:austinringer@gmail.com">
+        <span class="text">Email</span>
+    </a>.</p>
 
 </footer>
 
