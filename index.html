@@ -911,10 +911,34 @@
           color: #333;
       }
 
-      #badge {
-          width: 95px;
-          margin-left: 40px;
-      }
+
+      /*------------------------------------------------ Crop Image Preview ---------------------------------------- */
+
+
+      .crop-height {
+          /* max-width: 1200px; /* native or declared width of img src (if known) */
+          max-height: 120px;
+          overflow: hidden; }
+
+      img.scale {
+          /* corrects small inline gap at bottom of containing div */
+          display: block;
+          width: 900px; /* corrects obscure Firefox bug */
+          max-width: 100%;
+          /* just in case, to force correct aspect ratio */
+          height: auto !important;
+          display: block; /* corrects small inline gap at bottom of containing div */
+          width: 100% /* corrects obscure Firefox bug */
+      max-width: 100%;
+          /* just in case, to force correct aspect ratio */
+          height: auto !important;
+          /*width: auto\9;
+          /* ie8+9 - use modernizr instead of this \9 hack */
+          /* lt ie8 */
+          -ms-interpolation-mode: bicubic;
+          /* optionally force a minimum size if img src size is known: */
+          /* min-height: 320px; /* max-height of .crop-height */
+          /* min-width: 480px; /* proportional to above */ }
 
 
   </style>
@@ -944,25 +968,25 @@
 </head>
 
 
-
-
-
-
-
-
 <body>
 
 
 <article>
 
-
     <h1 class="invisible"><a href="posts/6-17-15_if_something_bothers_you.html">If Something Bothers You <br>Move Toward It</a></h1>
+
+
+
     <p><i>I want to take a couple minutes to organize a string of my thoughts around the idea of laziness.</i></p>
     <h2>Fuck Laziness</h2>
     <p>In my life I’ve met a handful of people that seem to operate on a completely different level than everyone around them.
         Those who find the time to score higher on tests, create better quality work, take care of their body and still date hotter women.
         Like Michael Jordan’s of everyday life they make it look easy. This pissed me off, until recently.</p>
 
+
+    <!--<div class="crop-height">-->
+        <!--<img class="scale" src="http://i1066.photobucket.com/albums/u418/austinringer/0-OBnU_qWSkn5LdXrH_zps7tl0id2c.jpeg" alt="wedding" />-->
+    <!--</div> &lt;!&ndash; end .crop-height &ndash;&gt;-->
 
   <p class="read_more_container"><a href="posts/6-17-15_if_something_bothers_you.html" class="read_more">Keep reading</a></p>
 
