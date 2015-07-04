@@ -24,21 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.1624501">
-              <caret line="1004" column="0" selection-start-line="1004" selection-start-column="0" selection-end-line="1004" selection-end-column="0" />
+            <state vertical-scroll-proportion="-9.176471">
+              <caret line="977" column="124" selection-start-line="977" selection-start-column="124" selection-end-line="978" selection-end-column="57" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="constant_conversations.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="constant_conversations.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/posts/constant_conversations.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.875">
-              <caret line="957" column="11" selection-start-line="957" selection-start-column="11" selection-end-line="957" selection-end-column="11" />
+            <state vertical-scroll-proportion="0.36632392">
+              <caret line="957" column="57" selection-start-line="957" selection-start-column="57" selection-end-line="957" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -64,8 +64,8 @@
       <list>
         <option value="$PROJECT_DIR$/posts/6-17-15_if_something_bothers_you.html" />
         <option value="$PROJECT_DIR$/posts/constant_conversations" />
-        <option value="$PROJECT_DIR$/posts/constant_conversations.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/posts/constant_conversations.html" />
       </list>
     </option>
   </component>
@@ -382,18 +382,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/posts/constant_conversations.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.875">
-          <caret line="957" column="11" selection-start-line="957" selection-start-column="11" selection-end-line="957" selection-end-column="11" />
+        <state vertical-scroll-proportion="-9.176471">
+          <caret line="977" column="124" selection-start-line="977" selection-start-column="124" selection-end-line="978" selection-end-column="57" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/posts/constant_conversations.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1624501">
-          <caret line="1004" column="0" selection-start-line="1004" selection-start-column="0" selection-end-line="1004" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.36632392">
+          <caret line="957" column="57" selection-start-line="957" selection-start-column="57" selection-end-line="957" selection-end-column="57" />
           <folding />
         </state>
       </provider>
