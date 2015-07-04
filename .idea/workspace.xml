@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="88c61c7e-e8b3-49aa-ba2e-365e62bcf395" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts/constant_conversations.html" afterPath="$PROJECT_DIR$/posts/constant_conversations.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="gitpage.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/posts/constant_conversations.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.36632392">
-              <caret line="957" column="57" selection-start-line="957" selection-start-column="57" selection-end-line="957" selection-end-column="57" />
+              <caret line="975" column="46" selection-start-line="975" selection-start-column="46" selection-end-line="975" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -393,7 +392,7 @@
     <entry file="file://$PROJECT_DIR$/posts/constant_conversations.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36632392">
-          <caret line="957" column="57" selection-start-line="957" selection-start-column="57" selection-end-line="957" selection-end-column="57" />
+          <caret line="975" column="46" selection-start-line="975" selection-start-column="46" selection-end-line="975" selection-end-column="46" />
           <folding />
         </state>
       </provider>
