@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="88c61c7e-e8b3-49aa-ba2e-365e62bcf395" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts/constant_conversations.html" afterPath="$PROJECT_DIR$/posts/constant_conversations.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts/if_it_bothers_you.html" afterPath="$PROJECT_DIR$/posts/if_it_bothers_you.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="gitpage.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,8 +36,8 @@
       <file leaf-file-name="constant_conversations.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/posts/constant_conversations.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2596538">
-              <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+            <state vertical-scroll-proportion="0.33954728">
+              <caret line="967" column="109" selection-start-line="967" selection-start-column="109" selection-end-line="967" selection-end-column="109" />
               <folding />
             </state>
           </provider>
@@ -394,8 +392,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/posts/constant_conversations.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2596538">
-          <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+        <state vertical-scroll-proportion="0.33954728">
+          <caret line="967" column="109" selection-start-line="967" selection-start-column="109" selection-end-line="967" selection-end-column="109" />
           <folding />
         </state>
       </provider>
