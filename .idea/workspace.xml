@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88c61c7e-e8b3-49aa-ba2e-365e62bcf395" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts/constant_conversations.html" afterPath="$PROJECT_DIR$/posts/constant_conversations.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts/if_it_bothers_you.html" afterPath="$PROJECT_DIR$/posts/if_it_bothers_you.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="gitpage.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.176471">
-              <caret line="977" column="124" selection-start-line="977" selection-start-column="124" selection-end-line="978" selection-end-column="57" />
+            <state vertical-scroll-proportion="-8.137255">
+              <caret line="975" column="13" selection-start-line="975" selection-start-column="13" selection-end-line="975" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -36,8 +38,8 @@
       <file leaf-file-name="constant_conversations.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/posts/constant_conversations.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-21.875">
-              <caret line="983" column="50" selection-start-line="983" selection-start-column="8" selection-end-line="983" selection-end-column="50" />
+            <state vertical-scroll-proportion="-9.607843">
+              <caret line="951" column="0" selection-start-line="951" selection-start-column="0" selection-end-line="951" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -46,8 +48,8 @@
       <file leaf-file-name="if_it_bothers_you.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/posts/if_it_bothers_you.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48200515">
-              <caret line="967" column="63" selection-start-line="967" selection-start-column="63" selection-end-line="967" selection-end-column="63" />
+            <state vertical-scroll-proportion="0.63249004">
+              <caret line="950" column="4" selection-start-line="950" selection-start-column="4" selection-end-line="950" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -376,24 +378,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.176471">
-          <caret line="977" column="124" selection-start-line="977" selection-start-column="124" selection-end-line="978" selection-end-column="57" />
+        <state vertical-scroll-proportion="-8.137255">
+          <caret line="975" column="13" selection-start-line="975" selection-start-column="13" selection-end-line="975" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/posts/constant_conversations.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.875">
-          <caret line="983" column="50" selection-start-line="983" selection-start-column="8" selection-end-line="983" selection-end-column="50" />
+        <state vertical-scroll-proportion="-9.607843">
+          <caret line="951" column="0" selection-start-line="951" selection-start-column="0" selection-end-line="951" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/posts/if_it_bothers_you.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48200515">
-          <caret line="967" column="63" selection-start-line="967" selection-start-column="63" selection-end-line="967" selection-end-column="63" />
+        <state vertical-scroll-proportion="0.63249004">
+          <caret line="950" column="4" selection-start-line="950" selection-start-column="4" selection-end-line="950" selection-end-column="4" />
           <folding />
         </state>
       </provider>
